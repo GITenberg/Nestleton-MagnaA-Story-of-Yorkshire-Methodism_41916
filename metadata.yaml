@@ -1,0 +1,30 @@
+_repo: Nestleton-MagnaA-Story-of-Yorkshire-Methodism_41916
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41916-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wray, J. Jackson (James Jackson)
+    aliases:
+    - Charles, Quintus
+    - Wray, James Jackson
+    birthdate: 1832
+    deathdate: 1892
+    gutenberg_agent_id: '41429'
+    url: http://www.gutenberg.org/2009/agents/41429
+description: ''
+gutenberg_issued: '2013-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodist Church (Great Britain) -- Fiction'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+title: 'Nestleton Magna: A Story of Yorkshire Methodism'
+url: http://www.gutenberg.org/ebooks/41916
